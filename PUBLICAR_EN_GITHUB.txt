@@ -1,0 +1,10 @@
+PUBLICACIÓN EN GITHUB PAGES
+
+1. Abrir repositorio de GitHub.
+2. Cargar TODOS los archivos de esta carpeta en la raíz del repositorio (no la carpeta ni el ZIP).
+3. Sobrescribir index.html con el nuevo archivo y confirmar el commit.
+4. Settings > Pages > Deploy from a branch > main > /(root).
+5. Comprobar la dirección pública.
+
+index.html ahora muestra las nueve clases.
+Laboratorio_4_Clases.html conserva el portal de las primeras cuatro clases.
